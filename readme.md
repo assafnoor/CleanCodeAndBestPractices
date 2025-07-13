@@ -115,12 +115,11 @@ Feel free to fork, submit pull requests, or open issues with improvements and id
 
 ---
 
-## 📜 License
+## 📄 License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE.txt) file for details.
 
 ---
-
 ## 🔗 Recommended Resources
 
 - _Clean Code_ by Robert C. Martin
