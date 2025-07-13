@@ -117,7 +117,7 @@ Feel free to fork, submit pull requests, or open issues with improvements and id
 
 ## 📜 License
 
-Licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE.txt).
 
 ---
 
